@@ -9,4 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://r-a-lobos.github.io/rmi/files/CV_RLOBOS_jan2021.pdf)
+Education 
+======
+B.S. in Electrical and Computer Engineering, University of Texas at Austin, 2023
+M.S. in Electrical and Computer Engineering, University of Michigan at Ann Arbor, 2025
+Ph.D. in Electrical and Computer Engineering, University of Michigan at Ann Arbor, in progress
+
+[CV](https://sofkard.github.io/files/CV_SK_w26.pdf)
